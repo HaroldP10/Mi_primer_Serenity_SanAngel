@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Title of your feature","Buscar el producto en el buscador de San Angel exitoso Universo encantado","SUCCESS","2021-06-16T17:54:19.859-05:00[America/Bogota]","0.0","180.98"
+"Title of your feature","Buscar un producto aleatorio en San Angel exitoso","SUCCESS","2021-06-16T17:51:15.174-05:00[America/Bogota]","0.0","36.74"
+"Title of your feature","Buscar el producto en el buscador de San Angel","SUCCESS","2021-06-16T17:51:57.742-05:00[America/Bogota]","0.0","86.43"
+"HU-004 Buscador San Angel fallido y exitoso","Buscar el producto en el buscador de San Angel fallido","SUCCESS","2021-06-16T17:53:25.727-05:00[America/Bogota]","0.0","21.09"
+"HU-004 Buscador San Angel fallido y exitoso","Buscar el producto en el buscador de San Angel exitoso","SUCCESS","2021-06-16T17:53:48.701-05:00[America/Bogota]","0.0","29.59"
